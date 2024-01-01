@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exemplo de arays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897a11957711d07046cf3c51bf8ddcac5d471368")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exemplo de arays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exemplo de arays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

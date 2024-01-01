@@ -23,7 +23,7 @@ listaString.Remove("MT");
 Console.WriteLine($"Item na minha lista: {listaString.Count} - capacidade: {listaString.Capacity}");
 
 
-// Console.WriteLine("percorrendo a lista com FOR");
+  // Console.WriteLine("percorrendo a lista com FOR");
 // for(int contador = 0; contador < listaString.Count; contador++)
 // {
 //     Console.WriteLine($"Posiçao N° {contador} - {listaString[contador]}");

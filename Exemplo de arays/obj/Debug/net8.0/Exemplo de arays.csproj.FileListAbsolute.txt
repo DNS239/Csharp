@@ -41,3 +41,4 @@ C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\refin
 C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.pdb
 C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.genruntimeconfig.cache
 C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\ref\Exemplo de arays.dll
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.sourcelink.json
