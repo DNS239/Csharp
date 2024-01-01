@@ -1,0 +1,43 @@
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.exe
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.deps.json
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.runtimeconfig.json
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.dll
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.pdb
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.AssemblyInfoInputs.cache
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.AssemblyInfo.cs
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.csproj.CoreCompileInputs.cache
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.dll
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\refint\Exemplo de arays.dll
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.pdb
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.genruntimeconfig.cache
+C:\Users\Dns\Documents\C#;;;\Exemplo de arays\obj\Debug\net8.0\ref\Exemplo de arays.dll
+C:\Users\Dns\Documents\C#\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.exe
+C:\Users\Dns\Documents\C#\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.deps.json
+C:\Users\Dns\Documents\C#\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.runtimeconfig.json
+C:\Users\Dns\Documents\C#\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.dll
+C:\Users\Dns\Documents\C#\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.pdb
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.AssemblyInfoInputs.cache
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.AssemblyInfo.cs
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.csproj.CoreCompileInputs.cache
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.dll
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\refint\Exemplo de arays.dll
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.pdb
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.genruntimeconfig.cache
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\ref\Exemplo de arays.dll
+C:\Users\Dns\Documents\C#\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.sourcelink.json
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.exe
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.deps.json
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.runtimeconfig.json
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.dll
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\bin\Debug\net8.0\Exemplo de arays.pdb
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.AssemblyInfoInputs.cache
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.AssemblyInfo.cs
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.csproj.CoreCompileInputs.cache
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.dll
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\refint\Exemplo de arays.dll
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.pdb
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\Exemplo de arays.genruntimeconfig.cache
+C:\Users\Dns\Documents\Aula de C#\Csharp\Exemplo de arays\obj\Debug\net8.0\ref\Exemplo de arays.dll
