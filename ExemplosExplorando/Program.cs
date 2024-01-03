@@ -2,21 +2,48 @@
 using System.Globalization;
 
 
-string dataString = "2023-11-01 18:00";
-
-bool sucesso = DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime data);
-
-//DateTime data = DateTime.Parse(dataString);
+string[] linhas = File.ReadAllLines("Arquivos/arquivoestrutura.txt");
 
 
-if(sucesso)
+foreach(string linha in linhas)
 {
-    Console.WriteLine($"Conversao com sucesso! Data: {data}");
+    Console.WriteLine(linha);
 }
-else
-{
-    Console.WriteLine($"{dataString} nao e uma data valida!");
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// string dataString = "2023-11-01 18:00";
+
+// bool sucesso = DateTime.TryParseExact(dataString, "yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture, DateTimeStyles.None, out DateTime data);
+
+// //DateTime data = DateTime.Parse(dataString);
+
+
+// if(sucesso)
+// {
+//     Console.WriteLine($"Conversao com sucesso! Data: {data}");
+// }
+// else
+// {
+//     Console.WriteLine($"{dataString} nao e uma data valida!");
+// }
 
 //Console.WriteLine(data);
 
