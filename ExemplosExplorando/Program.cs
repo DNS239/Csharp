@@ -2,14 +2,22 @@
 using System.Globalization;
 
 
-string[] linhas = File.ReadAllLines("Arquivos/arquivoestrutura.txt");
-
-
-foreach(string linha in linhas)
+try
 {
-    Console.WriteLine(linha);
-}
 
+
+    string[] linhas = File.ReadAllLines("Arquivos/arquivo_estrutura.txt");
+
+
+    foreach(string linha in linhas)
+    {
+    Console.WriteLine(linha);
+    }
+
+}catch(Exception ex)
+{
+    Console.WriteLine($"Ocorreu uma exeção genérica. {ex.Message}");
+}
 
 
 
