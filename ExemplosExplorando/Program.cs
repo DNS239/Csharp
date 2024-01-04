@@ -2,24 +2,112 @@
 using System.Globalization;
 
 
-try
+
+Queue<int> fila = new Queue<int>();
+
+
+fila.Enqueue(2);
+fila.Enqueue(4);
+fila.Enqueue(6);
+fila.Enqueue(8);
+
+foreach(int item in fila)
 {
+    Console.WriteLine(item);
+}
 
+Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+fila.Enqueue(10);
 
-    string[] linhas = File.ReadAllLines("Arquivos/arquivo_estrutura.txt");
-
-
-    foreach(string linha in linhas)
-    {
-    Console.WriteLine(linha);
-    }
-
-}catch(Exception ex)
+foreach(int item in fila)
 {
-    Console.WriteLine($"Ocorreu uma exeção genérica. {ex.Message}");
+    Console.WriteLine(item);
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//new ExmploExecao().metodo1();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// try
+// {
+//     string[] linhas = File.ReadAllLines("Arquivos/darquivoestrutura.txt");
+//     foreach(string linha in linhas)
+//     {
+//     Console.WriteLine(linha);
+//     }
+
+// }catch(FileNotFoundException ex)
+// {
+//     Console.WriteLine($"Ocorreu uma erro na leitura do arquivos. Aquivo não encontrado{ex.Message}");
+// }
+// catch(DirectoryNotFoundException ex)
+// {
+//     Console.WriteLine($"Ocorreu uma erro na leitura do arquivos. Caminho de pasta não encontrado" + ex.Message);
+// }
+// catch(Exception ex)
+// {
+//     Console.WriteLine($"Ocorreu uma exeção genérica. {ex.Message}");
+// }
+// finally
+// {
+//     Console.WriteLine("Chegou ate aq");
+// }
 
 
 
