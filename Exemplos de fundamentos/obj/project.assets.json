@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dns\\Documents\\C#\\Exemplos de fundamentos\\Exemplos de fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Dns\\Documents\\Aula de C#\\Csharp\\Exemplos de fundamentos\\Exemplos de fundamentos.csproj",
       "projectName": "Exemplos de fundamentos",
-      "projectPath": "C:\\Users\\Dns\\Documents\\C#\\Exemplos de fundamentos\\Exemplos de fundamentos.csproj",
+      "projectPath": "C:\\Users\\Dns\\Documents\\Aula de C#\\Csharp\\Exemplos de fundamentos\\Exemplos de fundamentos.csproj",
       "packagesPath": "C:\\Users\\Dns\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dns\\Documents\\C#\\Exemplos de fundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Dns\\Documents\\Aula de C#\\Csharp\\Exemplos de fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dns\\AppData\\Roaming\\NuGet\\NuGet.Config"
