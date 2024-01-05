@@ -3,26 +3,118 @@ using System.Globalization;
 
 
 
-Queue<int> fila = new Queue<int>();
+Dictionary<string, string> estados = new Dictionary<string, string>();
 
 
-fila.Enqueue(2);
-fila.Enqueue(4);
-fila.Enqueue(6);
-fila.Enqueue(8);
+estados.Add("SP", "São Paulo");
+estados.Add("BA", "Bahia");
+estados.Add("MS", "Mato Grosso do Sul");
 
-foreach(int item in fila)
-{
-    Console.WriteLine(item);
-}
 
-Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
-fila.Enqueue(10);
+Console.WriteLine(estados["MS"]);
 
-foreach(int item in fila)
-{
-    Console.WriteLine(item);
-}
+
+// foreach(var item in estados)            
+// {
+//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
+
+// estados.Remove("BA");
+// estados["SP"] = "São Paulo - Moodificado";
+
+
+// Console.WriteLine("-------------------");
+
+// foreach(var item in estados)            
+// {
+//     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+// }
+
+
+// string chave  = "BA";
+
+// Console.WriteLine($"Verificando o elemento: {chave}");
+
+// if(estados.ContainsKey(chave))
+// {
+//     Console.WriteLine($"Valor existente: {chave}");
+// }
+// else
+// {
+//     Console.WriteLine($"Valor não existe. É seguro adicionar a chave: {chave}");
+// }
+
+
+
+
+
+
+
+
+
+
+
+// Stack<int> pilha = new Stack<int>();
+
+
+// pilha.Push(4);
+// pilha.Push(6);
+// pilha.Push(8);
+// pilha.Push(10);
+
+// foreach(int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
+
+// Console.WriteLine($"Removendo o elemento do topo: {pilha.Pop()}");
+
+// pilha.Push(20);
+
+
+// foreach(int item in pilha)
+// {
+//     Console.WriteLine(item);
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Queue<int> fila = new Queue<int>();
+
+
+// fila.Enqueue(2);
+// fila.Enqueue(4);
+// fila.Enqueue(6);
+// fila.Enqueue(8);
+
+// foreach(int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
+
+// Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+// fila.Enqueue(10);
+
+// foreach(int item in fila)
+// {
+//     Console.WriteLine(item);
+// }
 
 
 
