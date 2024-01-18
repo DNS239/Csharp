@@ -28,3 +28,18 @@ C:\Users\Dns\Documents\Aula de C#\Csharp\ExemplosExplorando\obj\Debug\net8.0\ref
 C:\Users\Dns\Documents\Aula de C#\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.pdb
 C:\Users\Dns\Documents\Aula de C#\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.genruntimeconfig.cache
 C:\Users\Dns\Documents\Aula de C#\Csharp\ExemplosExplorando\obj\Debug\net8.0\ref\ExemplosExplorando.dll
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\bin\Debug\net8.0\ExemplosExplorando.exe
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\bin\Debug\net8.0\ExemplosExplorando.deps.json
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\bin\Debug\net8.0\ExemplosExplorando.runtimeconfig.json
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\bin\Debug\net8.0\ExemplosExplorando.dll
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\bin\Debug\net8.0\ExemplosExplorando.pdb
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.AssemblyInfoInputs.cache
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.AssemblyInfo.cs
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.csproj.CoreCompileInputs.cache
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.sourcelink.json
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.dll
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\refint\ExemplosExplorando.dll
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.pdb
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ExemplosExplorando.genruntimeconfig.cache
+C:\Users\Dns\Documents\GitHub\Csharp\ExemplosExplorando\obj\Debug\net8.0\ref\ExemplosExplorando.dll

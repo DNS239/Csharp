@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dns\\Documents\\Aula de C#\\Csharp\\ExemplosExplorando\\ExemplosExplorando.csproj": {}
+    "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\ExemplosExplorando\\ExemplosExplorando.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dns\\Documents\\Aula de C#\\Csharp\\ExemplosExplorando\\ExemplosExplorando.csproj": {
+    "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\ExemplosExplorando\\ExemplosExplorando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dns\\Documents\\Aula de C#\\Csharp\\ExemplosExplorando\\ExemplosExplorando.csproj",
+        "projectUniqueName": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\ExemplosExplorando\\ExemplosExplorando.csproj",
         "projectName": "ExemplosExplorando",
-        "projectPath": "C:\\Users\\Dns\\Documents\\Aula de C#\\Csharp\\ExemplosExplorando\\ExemplosExplorando.csproj",
+        "projectPath": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\ExemplosExplorando\\ExemplosExplorando.csproj",
         "packagesPath": "C:\\Users\\Dns\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dns\\Documents\\Aula de C#\\Csharp\\ExemplosExplorando\\obj\\",
+        "outputPath": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\ExemplosExplorando\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dns\\AppData\\Roaming\\NuGet\\NuGet.Config"
