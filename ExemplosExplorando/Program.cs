@@ -3,15 +3,43 @@ using System.Globalization;
 
 
 
-Dictionary<string, string> estados = new Dictionary<string, string>();
 
 
-estados.Add("SP", "São Paulo");
-estados.Add("BA", "Bahia");
-estados.Add("MS", "Mato Grosso do Sul");
+(int, string, string, decimal) tupla = (1, "Dns", "Ajala", 1.68m);
+
+Console.WriteLine($"ID: {tupla.Item1}");
+Console.WriteLine($"Nome: {tupla.Item2}");
+Console.WriteLine($"SobreNome: {tupla.Item3}");
+Console.WriteLine($"Altura: {tupla.Item4}");
 
 
-Console.WriteLine(estados["MS"]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Dictionary<string, string> estados = new Dictionary<string, string>();
+
+
+// estados.Add("SP", "São Paulo");
+// estados.Add("BA", "Bahia");
+// estados.Add("MS", "Mato Grosso do Sul");
+
+
+// Console.WriteLine(estados["MS"]);
 
 
 // foreach(var item in estados)            
@@ -54,6 +82,14 @@ Console.WriteLine(estados["MS"]);
 
 
 
+
+
+
+
+
+
+
+
 // Stack<int> pilha = new Stack<int>();
 
 
@@ -76,6 +112,9 @@ Console.WriteLine(estados["MS"]);
 // {
 //     Console.WriteLine(item);
 // }
+
+
+
 
 
 
@@ -200,6 +239,12 @@ Console.WriteLine(estados["MS"]);
 // {
 //     Console.WriteLine("Chegou ate aq");
 // }
+
+
+
+
+
+
 
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Propriedades\\Propriedades.csproj": {}
+    "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Tuplas\\Propriedades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Propriedades\\Propriedades.csproj": {
+    "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Tuplas\\Propriedades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Propriedades\\Propriedades.csproj",
+        "projectUniqueName": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Tuplas\\Propriedades.csproj",
         "projectName": "Propriedades",
-        "projectPath": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Propriedades\\Propriedades.csproj",
+        "projectPath": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Tuplas\\Propriedades.csproj",
         "packagesPath": "C:\\Users\\Dns\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Propriedades\\obj\\",
+        "outputPath": "C:\\Users\\Dns\\Documents\\GitHub\\Csharp\\Tuplas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dns\\AppData\\Roaming\\NuGet\\NuGet.Config"
